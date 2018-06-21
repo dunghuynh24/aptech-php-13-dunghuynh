@@ -1,0 +1,36 @@
+.text1 {
+	text-align: center;
+}
+.padding1 {
+	padding-left:80px;
+	padding-right:80px;
+}
+.margin1 {
+	margin:80px;
+}
+.margin2 {
+	margin-bottom:80px;
+}
+.bg1	{
+	background-color: #eaeae2;
+}
+.padding2 {
+	padding:20px;
+}
+.padding3 {
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.padding4 {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.list1 {
+	list-style: none;
+}
+.border-1 {
+	border-radius: 3px;
+}
+.border-2 {
+	box-shadow: 0 2px 3px black;
+}
