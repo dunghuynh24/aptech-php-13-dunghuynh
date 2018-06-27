@@ -1,0 +1,31 @@
+.bg-1 {
+  background-image:url(/home/rose/Desktop/aptech-php13-dunghuynh/2018-06-22/transformers_4_age_of_extinction-wide.jpg);
+  background-size:  cover;
+  box-sizing: inherit;
+}
+.mtb-50 {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+.bgw {
+  background-color: white;
+}
+.border-1 {
+  border-top: 1px solid grey;
+   
+}
+.bd  {
+  width: 30px;
+}
+.f {
+  display: flex;
+}
+.bg-2 {
+  background-image:url(/home/rose/Desktop/aptech-php13-dunghuynh/2018-06-22/transformers_4_bumblebee-t2.jpg);
+  width: 100%;
+}
+.p0 {
+  padding: 0px;
+}
